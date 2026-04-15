@@ -1,0 +1,1 @@
+le lien pour telecharge le jeu de donnee sur kaggle : https://www.kaggle.com/datasets/jp797498e/twitter-entity-sentiment-analysis
